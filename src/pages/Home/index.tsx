@@ -48,7 +48,7 @@ function Home() {
      <CardActions>
       <Button size="small">Detalhes</Button>
      </CardActions>
-    </Card>
+    </Card>//
    ))}
   </>
  );
